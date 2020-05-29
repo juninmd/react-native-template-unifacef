@@ -1,4 +1,26 @@
 {
   "name": "react-native-template-unifacef",
-  "version": "0.0.2"
+  "version": "0.0.3",
+  "description": "Template com Typescript e Mobx",
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "keywords": [
+    "react-native",
+    "mobx",
+    "typescript",
+    "jest",
+    "template",
+    "boilerplate"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juninmd/react-native-template-unifacef.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juninmd/react-native-template-unifacef/issues"
+  },
+  "homepage": "https://github.com/juninmd/react-native-template-unifacef#readme"
 }
