@@ -1,4 +1,4 @@
-package com.etanol;
+package com.unifacef;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "etanol";
+    return "unifacef";
   }
 }
