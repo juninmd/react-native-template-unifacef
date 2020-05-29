@@ -1,6 +1,6 @@
 {
   "name": "react-native-template-unifacef",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Template com Typescript e Mobx",
   "files": [
     "template",
